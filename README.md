@@ -61,17 +61,23 @@ History updates in Firebase
 
 🧪 Screens Included
 
-Login / Register
+
+Login 
+![Login_screenshot](https://github.com/user-attachments/assets/f697690a-7a92-424c-8d33-459146c5b273)
+
+Register
+![Register_screenshot](https://github.com/user-attachments/assets/9a9266e9-91d7-4f18-b46d-e50c9ae41313)
 
 Dashboard
+![Dashboard_screenshot](https://github.com/user-attachments/assets/81e373f6-034d-44ca-8a6e-d0c7430ac76f)
 
 Add Medicine
+![addmedicine_screenshot](https://github.com/user-attachments/assets/d0626069-bcc0-429b-8397-2a1717035144)
 
-View Medicines
+set timing Medicines
+![settimer_screenshot](https://github.com/user-attachments/assets/e90c7880-c93c-4e69-a073-db98a69caf79)
 
-Medicine History
 
-Profile Page
 
 📥 Installation (For Users)
 
